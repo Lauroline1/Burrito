@@ -1,0 +1,16 @@
+{
+  "name": "ticket-bot",
+  "version": "1.0.0",
+  "description": "A Ticket Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lauren",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "sqlite": "^3.0.3"
+  }
+}
